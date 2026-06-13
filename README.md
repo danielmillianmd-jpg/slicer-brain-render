@@ -4,7 +4,7 @@
 
 **A fully automated [3D Slicer](https://www.slicer.org/) pipeline that turns a raw DICOM study into a presentation-grade volume render — without a single manual click.**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo_Page-2ea44f?style=for-the-badge)](https://USERNAME.github.io/slicer-brain-render/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo_Page-2ea44f?style=for-the-badge)](https://danielmillianmd-jpg.github.io/slicer-brain-render/)
 [![3D Slicer](https://img.shields.io/badge/3D_Slicer-5.10-e2792b?style=for-the-badge&logo=slickpic&logoColor=white)](https://www.slicer.org/)
 [![Python](https://img.shields.io/badge/Python-Scripted-3776AB?style=for-the-badge&logo=python&logoColor=white)](#how-it-works)
 [![VTK](https://img.shields.io/badge/Rendering-VTK-cc0000?style=for-the-badge)](https://vtk.org/)
